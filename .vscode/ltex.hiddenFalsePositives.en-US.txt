@@ -1,0 +1,3 @@
+{"rule":"CD_NN","sentence":"^\\QTwo part problem: Initial Mapping: Quantum Walk based search Routing: Classical Optimization\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QQuantum walk speed up Speed up this backtracking for the CSP.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qof edges\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Qno.\\E$"}
